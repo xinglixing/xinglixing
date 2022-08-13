@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/ilgnix"><img src="https://api.daily.dev/devcards/b96a0bece0824977a0d5d29783833b4f.png?r=7bc" width="400" alt="Xing Li's Dev Card"/></a>
+
 <!--
 **xinglixing/xinglixing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
